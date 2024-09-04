@@ -10,3 +10,5 @@
 FahithKRM/FahithKRM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Portfolio Website Design](https://github.com/user-attachments/assets/8eecc819-f56f-4603-bc78-b8e4e92b6d7e)
+
