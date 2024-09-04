@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Available online : https://fahith.vercel.app/
 
-![image](https://github.com/user-attachments/assets/dc5449f3-d3bc-4b7f-8e2d-e003c8c84470)
+![Portfolio Website](https://github.com/user-attachments/assets/dc5449f3-d3bc-4b7f-8e2d-e003c8c84470)
 
 
