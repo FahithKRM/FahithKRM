@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FahithKRM
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning React, React Native and Touri
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python React and React Native
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me https://fahith.vercel.app/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
