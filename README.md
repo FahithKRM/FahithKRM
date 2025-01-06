@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @FahithKRM
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Python React and React Native
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me <!---https://fahith.vercel.app/--->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # 👋 Hi, I'm Mohamed Fahith! 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Computer+Engineering+Student;Machine+Learning+%7C+AI+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -28,7 +20,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🛠️ Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,21 +33,21 @@
 ### 🌟 [Gold Price Prediction](https://github.com/mohamedfahith/gold-price-prediction)
 **Technologies**: Python, RandomForestRegressor, Streamlit  
 **Description**: A web application predicting gold prices using historical data and machine learning models.  
-![Gold Price Prediction Screenshot](https://via.placeholder.com/600x300.png?text=Gold+Price+Prediction+App+Screenshot)
+![Gold Price Prediction Screenshot](https://github.com/mohamedfahith/gold-price-prediction/raw/main/assets/gold-price-app.png)
 
 ---
 
 ### 🌟 [Face & Eye Detection App](https://github.com/mohamedfahith/face-eye-detection)
 **Technologies**: OpenCV, Python  
 **Description**: Detects faces and eyes in real-time using computer vision techniques.  
-![Face Detection Screenshot](https://via.placeholder.com/600x300.png?text=Face+Detection+Screenshot)
+![Face Detection Screenshot](https://github.com/mohamedfahith/face-eye-detection/raw/main/assets/face-eye-detection.png)
 
 ---
 
 ### 🌟 [Interactive Learning Platform](https://github.com/mohamedfahith/interactive-learning-platform)
-**Technologies**: React, Node.js, MongoDB, Figma for Design  
+**Technologies**: React Native, Node.js, MongoDB, Figma for Design  
 **Description**: A platform designed for students, teachers, and parents to collaborate and monitor progress.  
-![Learning Platform Screenshot](https://via.placeholder.com/600x300.png?text=Interactive+Learning+Platform)
+![Learning Platform Screenshot](https://github.com/mohamedfahith/interactive-learning-platform/raw/main/assets/interactive-learning-platform.png)
 
 ---
 
@@ -74,6 +66,3 @@
 ---
 
 ✨ **_Thanks for visiting! Feel free to check out my repositories and connect with me._**
-
-
-
