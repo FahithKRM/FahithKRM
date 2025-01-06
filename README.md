@@ -51,6 +51,7 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 ## 📈 GitHub Stats
 
+![GitHub Status](https://img.shields.io/badge/GitHub%20Status-B%2B-blue)
 ![KRM Fahith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahithKRM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahithKRM&layout=compact&theme=radical)
 
