@@ -4,10 +4,13 @@
 
 # Hi there! 👋 I'm KRM Fahith
 
+![GitHub Status](https://img.shields.io/badge/GitHub%20Status-B%2B-blue)
+
 Motivated **Computer Engineering Student** passionate about **Full-Stack Development**, **Machine Learning**, and creating impactful projects.  
 I love contributing to open-source projects and exploring cutting-edge technologies.
 
 ---
+
 
 ## 🚀 About Me
 
