@@ -1,68 +1,82 @@
-# 👋 Hi, I'm Mohamed Fahith! 👨‍💻
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Computer+Engineering+Student;Machine+Learning+%7C+AI+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
+# Hi there! 👋 I'm KRM Fahith
+
+Motivated **Computer Engineering Student** passionate about **Full-Stack Development**, **Machine Learning**, and creating impactful projects.  
+I love contributing to open-source projects and exploring cutting-edge technologies.
+
+---
+
 ## 🚀 About Me
-- 🎓 **BSc in Computer Engineering** | Faculty of Engineering, University of Jaffna  
-- 🌟 Passionate about **Machine Learning, AI, NLP, and Computer Vision**  
-- 🌐 Building **Full-Stack Web Applications (MERN Stack)**  
-- ✍️ Open-source enthusiast and a lifelong learner  
-- 📧 Reach me at: [mohamedfahith@example.com](mailto:mohamedfahith@example.com)  
+
+- 🎓 Pursuing **BSc (Hons) in Computer Engineering** at **University of Jaffna**.  
+- 🌐 Interested in **Full-Stack Development**, **Machine Learning**, and **AI**.  
+- 📱 Exploring **React Native** for **mobile app development**.  
+- 🛠️ Enthusiastic about solving real-world problems with **code**.  
 
 ---
 
 ## 🔧 Skills & Tools
-### 🖥️ Programming Languages & Technologies:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📱 Mobile Development:
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🛠️ Tools & Platforms:
+### 💻 Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧠 Machine Learning & AI:
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🛠️ Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-### 🌟 [Gold Price Prediction](https://github.com/mohamedfahith/gold-price-prediction)
-**Technologies**: Python, RandomForestRegressor, Streamlit  
-**Description**: A web application predicting gold prices using historical data and machine learning models.  
-![Gold Price Prediction Screenshot](https://github.com/mohamedfahith/gold-price-prediction/raw/main/assets/gold-price-app.png)
+## 📈 GitHub Stats
+
+![KRM Fahith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahithKRM&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahithKRM&layout=compact&theme=radical)
 
 ---
 
-### 🌟 [Face & Eye Detection App](https://github.com/mohamedfahith/face-eye-detection)
-**Technologies**: OpenCV, Python  
-**Description**: Detects faces and eyes in real-time using computer vision techniques.  
-![Face Detection Screenshot](https://github.com/mohamedfahith/face-eye-detection/raw/main/assets/face-eye-detection.png)
+## 📞 Connect with Me
+
+- 📧 Email: krmfahith@gmail.com  
+- 🌐 LinkedIn: [FahithKRM](https://linkedin.com/in/FahithKRM)  
+- 🖥️ Portfolio: Coming Soon  
 
 ---
 
-### 🌟 [Interactive Learning Platform](https://github.com/mohamedfahith/interactive-learning-platform)
-**Technologies**: React Native, Node.js, MongoDB, Figma for Design  
-**Description**: A platform designed for students, teachers, and parents to collaborate and monitor progress.  
-![Learning Platform Screenshot](https://github.com/mohamedfahith/interactive-learning-platform/raw/main/assets/interactive-learning-platform.png)
+## 💡 Featured Projects
+
+### 1. [E-Commerce Website](https://github.com/FahithKRM/ecommerce)
+- Built with **MERN Stack**.
+- Features: Secure authentication, responsive design, and admin panel.
+
+### 2. [Food Order Website](https://github.com/FahithKRM/food-order)
+- Created using **React**, **Node.js**, and **MongoDB**.
+- Features: User authentication, order management, and admin panel.
+
+### 3. [Gold Price Prediction App](https://github.com/FahithKRM/gold-price-prediction)
+- Developed with **Streamlit** and **Scikit-learn**.
+- Features: Predictive analytics with regression models.
 
 ---
 
-## 📊 GitHub Stats
-![Mohamed Fahith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfahith&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfahith&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krmfahith/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Faahith_KRM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://edithfa.com)
-
----
-
-✨ **_Thanks for visiting! Feel free to check out my repositories and connect with me._**
+✨ **Thank you for visiting my GitHub! Let's collaborate and build something amazing!** ✨
