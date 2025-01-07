@@ -12,7 +12,7 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **BSc (Hons) in Computer Engineering** at **University of Jaffna**.  
+- 🎓 Pursuing **BSc.Eng (Hons) in Computer Engineering** at **University of Jaffna**.  
 - 🌐 Interested in **Full-Stack Development**, **Machine Learning**, and **AI**.  
 - 📱 Exploring **React Native** for **mobile app development**.  
 - 🛠️ Enthusiastic about solving real-world problems with **code**.  
