@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Computer+Engineering+Student;Machine+Learning+%7C+AI+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Computer+Engineering+Student;Machine+Learning+%7C+AI+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
