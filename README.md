@@ -66,17 +66,33 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 ## 💡 Featured Projects
 
-### 1. [E-Commerce Website](https://github.com/FahithKRM/ecommerce)
+### 1. [E-Commerce Website](https://github.com/FahithKRM/E-commerce---MERN.git)
 - Built with **MERN Stack**.
 - Features: Secure authentication, responsive design, and admin panel.
 
-### 2. [Food Order Website](https://github.com/FahithKRM/food-order)
+### 2. [Food Order Website](https://github.com/FahithKRM/Food-Delivery---MERN.git)
 - Created using **React**, **Node.js**, and **MongoDB**.
 - Features: User authentication, order management, and admin panel.
 
-### 3. [Gold Price Prediction App](https://github.com/FahithKRM/gold-price-prediction)
-- Developed with **Streamlit** and **Scikit-learn**.
-- Features: Predictive analytics with regression models.
+### 3. [Blog Website - Frontend](https://github.com/FahithKRM/Blog-App--Next----MERN.git)
+- Built with **MongoDB, Next.js, REST APIs, Git, Postman, Tailwind CSS**.
+- Features: User authentication, post creation, editing, and deletion with a clean and responsive user interface.
+
+### 4. [Gold Price Prediction in ML](https://github.com/FahithKRM/ML_Gold-Price-Prediction.git)
+- Built with **Python, Pandas, Random Forest Regressor, Streamlit, Scikit-learn, Matplotlib, Numpy**.
+- Features: Data analysis, handling missing values, feature engineering, and regression modeling for accurate predictions.
+
+### 5. [Wine Quality Prediction in ML](https://github.com/FahithKRM/ML_Wine-Quality-Prediction.git)
+- Built with **Python, Pandas, Scikit-learn, Random Forest Classifier, Seaborn, Streamlit, Pillow, Numpy**.
+- Features: Data preprocessing, handling missing values, model training, and feature engineering for wine quality classification.
+
+### 6. [Face and Eye Detection in CV](https://github.com/FahithKRM/OpenCV1/tree/main/face-eye-detection)
+- Built with **OpenCV, Haar Cascades, Python, Numpy**.
+- Features: Real-time face and eye detection using Haar Cascade classifiers, optimized for video input.
+
+### 7. [License Plate Detection in CV](https://github.com/FahithKRM/License-Plate-Detection-System.git)
+- Built with **OpenCV, OCR, Python, YOLOv8, SORT**.
+- Features: Real-time license plate detection and tracking using SORT and YOLOv8, with OCR for text extraction.
 
 ---
 
