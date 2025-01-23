@@ -60,7 +60,7 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 - 📧 Email: krmfahith@gmail.com  
 - 🌐 LinkedIn: [FahithKRM](https://www.linkedin.com/in/krmfahith/)  
-- 🖥️ Portfolio: Coming Soon  
+- 🖥️ Portfolio: [FahithKRM](https://krmfahith-fahith-krms-projects.vercel.app/)  
 
 ---
 
