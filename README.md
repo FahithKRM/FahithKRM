@@ -4,7 +4,8 @@
 
 # Hi there! 👋 I'm KRM Fahith
 
-Motivated **Computer Engineering Student** passionate about **Full-Stack Development**, **Machine Learning**, and creating impactful projects.  
+Motivated **Computer Engineering Student** passionate about **Full-Stack Development**, **Machine Learning** and creating impactful projects.  
+
 I love contributing to open-source projects and exploring cutting-edge technologies.
 
 ---
@@ -13,7 +14,7 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 ## 🚀 About Me
 
 - 🎓 Pursuing **BSc.Eng (Hons) in Computer Engineering** at **University of Jaffna**.  
-- 🌐 Interested in **Full-Stack Development**, **Machine Learning**, and **AI**.  
+- 🌐 Interested in **Full-Stack Development**, **Machine Learning** and **AI**.  
 - 📱 Exploring **React Native** for **mobile app development**.  
 - 🛠️ Enthusiastic about solving real-world problems with **code**.  
 
@@ -68,11 +69,11 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 ### 1. [E-Commerce Website](https://github.com/FahithKRM/E-commerce---MERN.git)
 - Built with **MERN Stack**.
-- Features: Secure authentication, responsive design, and admin panel.
+- Features: Secure authentication, responsive design and admin panel.
 
 ### 2. [Food Order Website](https://github.com/FahithKRM/Food-Delivery---MERN.git)
 - Created using **React**, **Node.js**, and **MongoDB**.
-- Features: User authentication, order management, and admin panel.
+- Features: User authentication, order management and admin panel.
 
 ### 3. [Blog Website - Frontend](https://github.com/FahithKRM/Blog-App--Next----MERN.git)
 - Built with **MongoDB, Next.js, REST APIs, Git, Postman, Tailwind CSS**.
@@ -80,11 +81,11 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 
 ### 4. [Gold Price Prediction in ML](https://github.com/FahithKRM/ML_Gold-Price-Prediction.git)
 - Built with **Python, Pandas, Random Forest Regressor, Streamlit, Scikit-learn, Matplotlib, Numpy**.
-- Features: Data analysis, handling missing values, feature engineering, and regression modeling for accurate predictions.
+- Features: Data analysis, handling missing values, feature engineering and regression modeling for accurate predictions.
 
 ### 5. [Wine Quality Prediction in ML](https://github.com/FahithKRM/ML_Wine-Quality-Prediction.git)
 - Built with **Python, Pandas, Scikit-learn, Random Forest Classifier, Seaborn, Streamlit, Pillow, Numpy**.
-- Features: Data preprocessing, handling missing values, model training, and feature engineering for wine quality classification.
+- Features: Data preprocessing, handling missing values, model training and feature engineering for wine quality classification.
 
 ### 6. [Face and Eye Detection in CV](https://github.com/FahithKRM/OpenCV1/tree/main/face-eye-detection)
 - Built with **OpenCV, Haar Cascades, Python, Numpy**.
