@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm KRM Fahith
 
-Motivated **Computer Engineering Student** passionate about **Full-Stack Development**, **Machine Learning** and creating impactful projects.  
+Motivated **Computer Engineer** passionate about **Full-Stack Development**, **Machine Learning** and creating impactful projects.  
 
 I love contributing to open-source projects and exploring cutting-edge technologies.
 
@@ -79,19 +79,23 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 - Built with **MongoDB, Next.js, REST APIs, Git, Postman, Tailwind CSS**.
 - Features: User authentication, post creation, editing, and deletion with a clean and responsive user interface.
 
-### 4. [Gold Price Prediction in ML](https://github.com/FahithKRM/ML_Gold-Price-Prediction.git)
+### 4. [Advanced GPA Calculator - Frontend](https://github.com/FahithKRM/gpa-calculator-app.git)
+- Built with **Next.js, Tailwind CSS, Lucide-react**.
+- Features: Multi-semester GPA tracking, customizable grade scales, PDF/image export and academic classifications.
+
+### 5. [Gold Price Prediction in ML](https://github.com/FahithKRM/ML_Gold-Price-Prediction.git)
 - Built with **Python, Pandas, Random Forest Regressor, Streamlit, Scikit-learn, Matplotlib, Numpy**.
 - Features: Data analysis, handling missing values, feature engineering and regression modeling for accurate predictions.
 
-### 5. [Wine Quality Prediction in ML](https://github.com/FahithKRM/ML_Wine-Quality-Prediction.git)
+### 6. [Wine Quality Prediction in ML](https://github.com/FahithKRM/ML_Wine-Quality-Prediction.git)
 - Built with **Python, Pandas, Scikit-learn, Random Forest Classifier, Seaborn, Streamlit, Pillow, Numpy**.
 - Features: Data preprocessing, handling missing values, model training and feature engineering for wine quality classification.
 
-### 6. [Face and Eye Detection in CV](https://github.com/FahithKRM/OpenCV1/tree/main/face-eye-detection)
+### 7. [Face and Eye Detection in CV](https://github.com/FahithKRM/OpenCV1/tree/main/face-eye-detection)
 - Built with **OpenCV, Haar Cascades, Python, Numpy**.
 - Features: Real-time face and eye detection using Haar Cascade classifiers, optimized for video input.
 
-### 7. [License Plate Detection in CV](https://github.com/FahithKRM/License-Plate-Detection-System.git)
+### 8. [License Plate Detection in CV](https://github.com/FahithKRM/License-Plate-Detection-System.git)
 - Built with **OpenCV, OCR, Python, YOLOv8, SORT**.
 - Features: Real-time license plate detection and tracking using SORT and YOLOv8, with OCR for text extraction.
 
