@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm KRM Fahith
 
-Motivated **Computer Engineer** passionate about **Full-Stack Development**, **Machine Learning** and creating impactful projects.  
+I am a passionate Computer Engineer with a strong foundation in full-stack development and mobile application development, specializing in the MERN stack and React Native.  
 
 I love contributing to open-source projects and exploring cutting-edge technologies.
 
