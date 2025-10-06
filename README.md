@@ -79,11 +79,11 @@ I love contributing to open-source projects and exploring cutting-edge technolog
 - Built with **MongoDB, Next.js, REST APIs, Git, Postman, Tailwind CSS**.
 - Features: User authentication, post creation, editing, and deletion with a clean and responsive user interface.
 
-### 4. [Advanced GPA Calculator - Frontend](https://github.com/FahithKRM/gpa-calculator-app.git) [Live(https://gpa-calculator-app-seven.vercel.app/)]
+### 4. [Advanced GPA Calculator - Frontend](https://github.com/FahithKRM/gpa-calculator-app.git) [Live](https://gpa-calculator-app-seven.vercel.app/)
 - Built with **Next.js, Tailwind CSS, Lucide-react**.
 - Features: Multi-semester GPA tracking, customizable grade scales, PDF/image export and academic classifications.
 
-### 5. [Smart Room Automation System - Hardware](https://github.com/FahithKRM/Smart-Room-Automation.git) [Live(https://www.tinkercad.com/things/3gTcExSN1LN-smart-room)]
+### 5. [Smart Room Automation System - Hardware](https://github.com/FahithKRM/Smart-Room-Automation.git) [Live](https://www.tinkercad.com/things/3gTcExSN1LN-smart-room)
 - Built with **Arduino, C++, Tinkercad**.  
 - Features: Predefined password-protected secure door, occupancy-based turn on/off light, automatic smoke detection with alarm and prioritized safety response.
 
